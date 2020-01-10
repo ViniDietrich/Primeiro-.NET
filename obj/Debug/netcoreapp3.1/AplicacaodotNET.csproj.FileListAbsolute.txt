@@ -1,0 +1,11 @@
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.exe
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.deps.json
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.dll
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\bin\Debug\netcoreapp3.1\AplicacaodotNET.pdb
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\obj\Debug\netcoreapp3.1\AplicacaodotNET.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\obj\Debug\netcoreapp3.1\AplicacaodotNET.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\obj\Debug\netcoreapp3.1\AplicacaodotNET.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\obj\Debug\netcoreapp3.1\AplicacaodotNET.dll
+C:\Users\Vinicius\Desktop\Projetos\AplicacaodotNET\obj\Debug\netcoreapp3.1\AplicacaodotNET.pdb
